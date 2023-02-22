@@ -1,3 +1,5 @@
+**[中文](./README_ZH.md) | [English](./README.md)** 
+
 # ChatGPT in Academia
 
 As the development of natural language processing (NLP) technologies advances, Large Language Models (LLMs) such as ChatGPT have gained significant attention for their potential to aid in scientific writing. However, concerns have also been raised regarding the ethical implications and reliability of using LLMs in scientific writing.
@@ -98,7 +100,7 @@ Source URL: https://2023.aclweb.org/blog/ACL-2023-policy/
 
 In order to identify whether the text is from AI-assisted engine (such as ChatGPT) or human, several tools are released, which might help in identifying potential plagiarism and academic misconduct. 
 
-**💡 NOTE: These tools are not entirely reliable at the moment based on my own experience. **
+**💡NOTE: These tools are not entirely reliable at the moment based on my own experience.** 
 
 **⚠️ WARNING: Use with caution, beware of data collection, especially for those PRIVATE data.**
 
